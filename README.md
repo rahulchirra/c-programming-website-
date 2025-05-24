@@ -2,6 +2,10 @@
 
 This contains everything you need to run your app locally.
 
+## Live Demo
+
+[View the deployed site on GitHub Pages](https://rahulchirra.github.io/c-programming-website-/)
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
